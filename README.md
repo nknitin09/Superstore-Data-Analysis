@@ -3,7 +3,7 @@
 I have done an analysis on superstore dataset by analysis on objective chosen for better conclusion.
 Technologies I have used in this project : Pandas, Numpy, Matplotlib
 
-OBJECTIVES:
+## OBJECTIVES:
 - What is the overall sales trend?
 - Which are the Top 10 products by sales?
 - Which are the Top 10 customers by sales?
